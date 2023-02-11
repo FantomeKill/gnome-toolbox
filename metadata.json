@@ -1,0 +1,8 @@
+{
+  "name": "gnome-toolbox",
+  "description": "Make a window to launch some app",
+  "uuid": "toolbox@fantomekill.github.com",
+  "shell-version": [
+    "43"
+  ]
+}
